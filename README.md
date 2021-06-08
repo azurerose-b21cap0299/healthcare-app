@@ -9,6 +9,17 @@ due to lockdown or self-isolation, make people rely on processed and instant foo
 
 So, our app ensuring people to choose their foods calorie intake carefully.
 
+## Dataset ##
+https://​kaggle.com/moltean/fruits
+
+## Technologies ##
+* Kotlin
+* Flask
+* Gunicorn
+* Firebase
+* TensorFlow
+
+
 ## Teams ##
 * M0080850 - Muhammad Amridhan Mahdi
 
