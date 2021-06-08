@@ -8,3 +8,11 @@ covid-19 made obesity itself is reported to be one of the risk factors for the s
 due to lockdown or self-isolation, make people rely on processed and instant foods that have high calorie.
 
 So, our app ensuring people to choose their foods calorie intake carefully.
+
+# Teams
+M0080850 - Muhammad Amridhan Mahdi
+M0080851 - Muhammad Haidar Azhar
+C1351668 - Ninda Dwiyana
+C2082025 - Renia Nandatani
+A0080821 - Ilham Akbar Taufik Kurnia Wibowo
+A0080823 - Naufaldo Rafif Basrie
