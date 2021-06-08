@@ -11,8 +11,13 @@ So, our app ensuring people to choose their foods calorie intake carefully.
 
 # Teams
 M0080850 - Muhammad Amridhan Mahdi
+
 M0080851 - Muhammad Haidar Azhar
+
 C1351668 - Ninda Dwiyana
+
 C2082025 - Renia Nandatani
+
 A0080821 - Ilham Akbar Taufik Kurnia Wibowo
+
 A0080823 - Naufaldo Rafif Basrie
