@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "96107866930",
+    "project_id": "azurerosehealthmanagerapps",
+    "storage_bucket": "azurerosehealthmanagerapps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96107866930:android:299632ab2fe0ab871e052b",
+        "android_client_info": {
+          "package_name": "com.ilham.azurerosehealthmanagerapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96107866930-4j22akoc728m7qaleccr0cah94ddtgiq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB70c58w57L6qE83RlwiG6xmv6V5MwQTWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "96107866930-4j22akoc728m7qaleccr0cah94ddtgiq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
